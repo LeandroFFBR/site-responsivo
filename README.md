@@ -27,7 +27,7 @@ Website de portfólio pessoal moderno, elegante e totalmente responsivo, constru
 ### Opção 1: Clonar o Repositório
 ```bash
 # Clonar este repositório
-git clone [https://github.com/LeandroFFBR/site-responsivo.git)
+git clone https://github.com/LeandroFFBR/site-responsivo.git
 
 # Acessar a pasta do projeto
 cd responsive-porfolio-website
